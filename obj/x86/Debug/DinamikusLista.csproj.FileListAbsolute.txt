@@ -1,0 +1,4 @@
+C:\Users\guthe\documents\visual studio 2010\Projects\DinamikusLista\bin\Debug\DinamikusLista.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\DinamikusLista\bin\Debug\DinamikusLista.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\DinamikusLista\obj\x86\Debug\DinamikusLista.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\DinamikusLista\obj\x86\Debug\DinamikusLista.pdb
